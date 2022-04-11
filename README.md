@@ -76,7 +76,7 @@ You can easily classify your data. Also, feel free to change the Hyperparameters
 
 **6- LSTM**
 
-** It is better to run the LSTM with Colab GPU **
+** It's better to run the LSTM with Colab GPU **
 
 In this part we use LSTM as below
 
