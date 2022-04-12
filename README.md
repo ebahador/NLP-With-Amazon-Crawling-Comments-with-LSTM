@@ -12,7 +12,7 @@ The classifications are done by five different popular classifiers with Sk-Learn
 
 • Long-Short Time Memory (LSTM)
 
-• K-Nearest Neighbors
+• K-Nearest Neighbor
 
 • Random Forest
 
