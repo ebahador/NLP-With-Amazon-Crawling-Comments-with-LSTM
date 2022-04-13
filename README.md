@@ -1,14 +1,19 @@
 Concordia University
+
 Gina Cody School of Engineering and Computer Science
 
 Machine Learning
+
 COMP6321
 
 Instructor:
+
 Dr. Mirco Ravanelli
 
 Submitted By:
+
 Amir Bahador Eizadkhah
+
 Amin Nazarian Saralang
 
 ____________________________________________________________________________________________________________________________________________________________________
