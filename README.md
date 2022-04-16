@@ -45,7 +45,7 @@ This part is just for importing all essential libraries which we need in order t
 Then If you are working with Google Colab, you must unlock the Google Drive to access the resources such as Dataset and model Weights.
 Also, there are some methods to plot the models that we need down the road.
 
-** You can skip part 2, 3, 4  with importing 'Reviews_Modified.csv' directly to your code from Link below **
+** You can skip part 2 and 3 with importing 'Reviews_Modified.csv' to your code from Link below and directly jump to 4.2 for vectorization and train-test split and continue **
 
 https://drive.google.com/file/d/1vCIvjK6l9vp2Tec5IkO_Aokn0V6oYhVI/view?usp=sharing
 
